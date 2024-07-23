@@ -16,7 +16,7 @@ const Header = () => {
             <div className="flex">
                 <div className="w-[185px] h-[44px] shadow-lg rounded-full flex justify-center items-center mx-5">
                     <div className="rounded-full shadow-md w-[40px] h-[40px] flex justify-center items-center bg-black">
-                        <img src={B} alt="image" />
+                        <img src={B} alt="logo" />
                     </div>
 
                     <span className="ml-2">Non Bio Medical</span>

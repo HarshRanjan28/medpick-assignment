@@ -1,5 +1,4 @@
 import Vector from '../../src/logo/Vector.png';
-import Union from '../../src/logo/Union.png';
 import Group696 from '../../src/logo/Group696.png';
 import gear from '../../src/logo/gear.png';
 import request from '../../src/logo/request.png';
